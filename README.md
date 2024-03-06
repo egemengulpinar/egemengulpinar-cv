@@ -17,8 +17,8 @@ pdflatex main.tex
 ## Screenshots
 
 <p align="center">
-    <img alt="Screenshot" src="https://github.com/egemengulpinar/egemengulpinar-cv/blob/main/jpg/CV_page_1.jpg?raw=true" width="400">
-    <img alt="Screenshot" src="https://github.com/egemengulpinar/egemengulpinar-cv/blob/main/jpg/CV_page_2.jpg?raw=true" width="400">
+    <img alt="Screenshot" src="https://github.com/egemengulpinar/egemengulpinar-cv/blob/main/jpg/CV_page_first.jpg?raw=true" width="400">
+    <img alt="Screenshot" src="https://github.com/egemengulpinar/egemengulpinar-cv/blob/main/jpg/CV_page_second.jpg?raw=true" width="400">
 </p>
 
 
