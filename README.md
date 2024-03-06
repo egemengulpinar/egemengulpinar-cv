@@ -23,7 +23,7 @@ pdflatex main.tex
 
 
 
-## Great thanks for the template author
+## Authors
 
 👤 **Aras Güngöre**
 * GitHub: [@arasgungore](https://github.com/arasgungore)
